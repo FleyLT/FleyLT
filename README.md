@@ -29,7 +29,7 @@ Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técn
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fleylt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva&layout=compact&theme=tokyonight)
 
 ---
 

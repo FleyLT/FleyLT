@@ -13,6 +13,8 @@ Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técn
 - 💻 Conhecimentos em Git, PHP e JavaScript  
 - 🚀 Buscando sempre novos aprendizados e desafios técnicos
 
+
+
 ---
 
 ### 🧰 Tecnologias e Ferramentas
@@ -27,13 +29,7 @@ Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técn
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="top langs" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fleylt&show_icons=true&theme=tokyonight)
 
 ---
 

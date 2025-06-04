@@ -15,9 +15,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Mikrotik" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mikrotik.svg" />
   <img align="center" alt="Zabbix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg" />
-  <img align="center" alt="Fiber Optic" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/252/252035.png" />
+</div>
+
+<div style="display: inline_block; text-align:center;">
+  <a href="#" title="Mikrotik"><img src="https://img.shields.io/badge/Mikrotik-EA4C89?style=for-the-badge" alt="Mikrotik" height="30" /></a>
+  <a href="#" title="Fibra Óptica"><img src="https://img.shields.io/badge/Fibra-Optica-blue?style=for-the-badge" alt="Fibra Óptica" height="30" /></a>
 </div>
 
 ---

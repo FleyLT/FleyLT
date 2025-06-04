@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo Luann Eliseu</h1>
+<h1 align="center">Prazer, Luann Eliseu</h1>
 <h3 align="center">Analista de Redes e Desenvolvedor em constante evolução.</h3>
 
 ---
@@ -36,6 +36,6 @@
   </a>
 </div>
 
----
+
 
 ✨ _"Tecnologia é o meio. Conectar, criar e evoluir é o propósito."_

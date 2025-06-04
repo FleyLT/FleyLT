@@ -11,15 +11,30 @@
 
 ### 🧰 Tecnologias e Ferramentas
 
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Mikrotik](https://img.shields.io/badge/Mikrotik-EA4C89?style=for-the-badge&logo=networkx&logoColor=white) | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white) | ![Fiber](https://img.shields.io/badge/Fibra-Optica-blue?style=for-the-badge) |
-|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+<div style="display: inline_block; text-align:center;">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Mikrotik" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/mikrotik.svg" />
+  <img align="center" alt="Zabbix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zabbix/zabbix-original.svg" />
+  <img align="center" alt="Fiber Optic" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/252/252035.png" />
+</div>
 
 ---
 
 ### 📫 Contato
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanh.png) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luaeliseu@gmail.com) |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+<div>
+  <a href="https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/luanh.png" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:luaeliseu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 

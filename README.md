@@ -38,8 +38,10 @@ Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técn
 ---
 
 ### 📫 Contato
-- 💼 [LinkedIn]([https://linkedin.com/in/SEULINKEDIN](https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/)  
-- ✉️ luaeliseu@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/)
+- ✉️ seuemail@exemplo.com  
+- 📱 WhatsApp: (XX) XXXXX-XXXX  
+- 🕗 Disponível para trabalhar das **20h às 2h**
 
 ---
 

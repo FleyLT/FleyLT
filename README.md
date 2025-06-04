@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Me chamo Luann Eliseu</h1>
 <h3 align="center">Analista de Redes e Desenvolvedor em constante evolução.</h3>
 
 ---
@@ -39,9 +39,7 @@ Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técn
 
 ### 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/)
-- ✉️ seuemail@exemplo.com  
-- 📱 WhatsApp: (XX) XXXXX-XXXX  
-- 🕗 Disponível para trabalhar das **20h às 2h**
+- ✉️ luaeliseu@gmail.com
 
 ---
 

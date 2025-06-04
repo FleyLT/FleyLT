@@ -3,9 +3,9 @@
 
 ---
 
-| 🎯 **Objetivo Profissional** | 📌 **Sobre mim** |
-|------------------------------|------------------|
-| Atuar como **Analista de Redes** e **Desenvolvedor**, unindo conhecimentos técnicos em infraestrutura e programação, com foco em crescimento contínuo na área de tecnologia. | - 🛠️ 1 ano de experiência em Suporte Técnico no setor de Telecomunicações<br><br>- 🌐 Vivência com redes de fibra óptica, Mikrotik e roteadores Intelbras, TP-Link, Huawei, ZTE, Ubiquiti<br><br>- 📊 Familiaridade com Zabbix, Ozmap e estruturação de redes<br><br>- 💻 Conhecimentos em Git, PHP e JavaScript<br><br>- 🚀 Buscando sempre novos aprendizados e desafios técnicos |
+| 🎯 <strong>Objetivo Profissional</strong> | 📌 <strong>Sobre Mim</strong> |
+|-------------------------------------------|-----------------------------|
+| Atuar como <strong>Analista de Redes</strong> e <strong>Desenvolvedor</strong>, aplicando conhecimentos técnicos em infraestrutura e programação, com foco no desenvolvimento contínuo e aprimoramento profissional na área de tecnologia. | - Experiência de 1 ano em Suporte Técnico no setor de Telecomunicações.<br><br>- Atuação com redes de fibra óptica, Mikrotik e roteadores Intelbras, TP-Link, Huawei, ZTE, Ubiquiti.<br><br>- Familiaridade com Zabbix, Ozmap e estruturação de redes.<br><br>- Conhecimentos sólidos em Git, PHP e JavaScript.<br><br>- Comprometido com aprendizado constante e superação de desafios técnicos. |
 
 ---
 
@@ -25,17 +25,17 @@
 ### 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/" target="_blank">
+  <a href="https://www.linkedin.com/in/luann-eliseu-santos-da-silva-5a6b44279/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/luanh.png" target="_blank">
+  <a href="https://www.instagram.com/luanh.png" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:luaeliseu@gmail.com" target="_blank">
+  <a href="mailto:luaeliseu@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
+---
 
-
-✨ _"Tecnologia é o meio. Conectar, criar e evoluir é o propósito."_
+✨ <em>"Tecnologia é o meio. Conectar, criar e evoluir é o propósito."</em>

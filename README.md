@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Luann Eliseu
 
-<!--
-**FleyLT/FleyLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo:** Atuar como Analista de Redes e crescer profissionalmente na área de infraestrutura e telecomunicações.
 
-Here are some ideas to get you started:
+📌 **Resumo:**
+- 1 ano de experiência em Suporte Técnico em Telecom
+- Familiaridade com Zabbix, Ozmap e redes de fibra óptica
+- Conhecimento prático em Mikrotik, Intelbras, Ubiquiti, Huawei, ZTE e TP-Link
+- Interesse contínuo em aprendizado e evolução profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Habilidades Técnicas:**
+- Redes e Infraestrutura
+- Monitoramento com Zabbix
+- Gerenciamento de projetos com Ozmap
+- Configuração de roteadores e revisão de equipamentos
+- Conceitos básicos de Git, PHP e JavaScript
+
+📫 **Contato:**
+- Email: seuemail@exemplo.com
+- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+- WhatsApp: (xx) xxxxx-xxxx
+
+---
+🌟 _"A tecnologia só faz sentido quando aproxima as pessoas."_  
